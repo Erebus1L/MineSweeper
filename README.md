@@ -1,0 +1,2 @@
+# MineSweeper
+Minesweeper is a game where the user is challenged to identify hidden mines and clear safe cells. Minesweeper involves a grid upon which the player can click to guess whether a cell is an empty cell or contains a mine. If they click on a mine, then the game is over. If they click on an empty cell, the cell will reveal how many neighbouring cells have mines. The project Minesweeper has been developed using Android Studio in Kotlin Language. 
